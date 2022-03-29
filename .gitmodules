@@ -2,9 +2,6 @@
 	path = hw
 	url = https://github.com/nvdla/hw.git
 	branch = master
-[submodule "vp"]
-	path = vp
-	url = https://github.com/nvdla/vp.git
 [submodule "sw"]
 	path = sw
 	url = https://github.com/nvdla/sw.git
